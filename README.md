@@ -12,7 +12,7 @@ Use it in your app :
 
 ```js
 import { useState } from "react";
-import Modal from "@augt/p14-modal";
+import { Modal } from "@augt/p14-modal";
 
 function Component() {
   const [showModal, setShowModal] = useState(false);
