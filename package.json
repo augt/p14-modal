@@ -1,6 +1,6 @@
 {
   "name": "@augt/p14-modal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "augt",
   "description": "A simple React component pop-in modal that either shows an error message or a confirmation message.",
   "keywords": [
