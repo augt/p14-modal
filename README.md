@@ -5,7 +5,7 @@ A simple React component pop-in modal that either shows an error message or a co
 ## Installation
 
 It is recommanded to use Node.js v18 or newer.
-A the root of your React project, run the following command in your terminal to install the module:
+At the root of your React project, run the following command in your terminal to install the module:
 
 `npm install @augt/p14-modal`
 
