@@ -2,6 +2,8 @@ import styled from "styled-components";
 
 export const StyledModalBackground = styled.div`
   position: fixed;
+  top: 0;
+  left: 0;
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.75);
@@ -10,6 +12,7 @@ export const StyledModalBackground = styled.div`
 export const StyledModalContainer = styled.div`
   position: relative;
   background-color: white;
+  color: black;
   width: fit-content;
   padding: 20px 30px;
   border-radius: 15px;
